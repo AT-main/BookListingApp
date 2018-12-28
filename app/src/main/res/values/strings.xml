@@ -1,0 +1,32 @@
+<resources>
+    <string name="app_name">Book Listing App</string>
+    <string name="search_hint">Search Books</string>
+
+    <string name="settings_search_term_key" translatable="false">search_term</string>
+    <string name="settings_search_term_title">Search Term</string>
+
+    <string name="settings_order_by_label">Order By</string>
+    <string name="settings_order_by_key" translatable="false">order_by</string>
+    <string name="settings_order_by_defualt" translatable="false">@string/settings_order_by_newest_value</string>
+
+    <string name="settings_order_by_newest_label">Newest</string>
+    <string name="settings_order_by_newest_value">newest</string>
+
+    <string name="settings_order_by_relevance_label">Relevance</string>
+    <string name="settings_order_by_relevance_value" translatable="false">relevance</string>
+
+    <string name="settings_print_type_label">Print Type</string>
+    <string name="settings_print_type_key" translatable="false">print_type</string>
+    <string name="settings_print_type_default" translatable="false">@string/settings_print_type_all_value</string>
+
+    <string name="settings_print_type_all_label">All</string>
+    <string name="settings_print_type_all_value" translatable="false">all</string>
+
+    <string name="settings_print_type_books_label">Books</string>
+    <string name="settings_print_type_books_value" translatable="false">books</string>
+
+    <string name="settings_print_type_magazines_label">Magazines</string>
+    <string name="settings_print_type_magazines_value" translatable="false">magazines</string>
+
+
+</resources>
